@@ -7,3 +7,4 @@ catboost
 torch
 torch-geometric
 imblearn
+ipykernel

@@ -1,1 +1,39 @@
+# Local environments
 fraud_env/
+.venv/
+venv/
+env/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Notebook and training outputs
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/catboost_info/
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
