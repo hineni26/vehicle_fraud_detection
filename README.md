@@ -312,14 +312,8 @@ The repository was inspected in an environment with Python `3.13.5`, but some ML
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:hineni26/vehicle_fraud_detection.git
 cd vehicle_fraud_detection
-```
-
-If you already have the project locally, just move into the project directory:
-
-```bash
-cd /home/ahan/Workspace/projects/vehicle_fraud_detection
 ```
 
 ### 2. Create a Virtual Environment
